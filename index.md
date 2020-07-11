@@ -25,7 +25,7 @@ As part of the logistics-tech team, I build a webpage that uses scanned QR codes
 
 I implemented the webpage with Java Server Pages and Apache Tomcat, while another student I was working with, Nicholas, implemented the UI design. You may find screenshots and the repository [here](https://github.com/elliottan/CAPTISS-QR-Registration).
 
-![CAPTISS QR Code](https:/raw.githubusercontent.com/elliottan/CAPTISS-QR-Registration/blob/master/Login_Page.png)
+![CAPTISS QR Code](https://raw.githubusercontent.com/elliottan/CAPTISS-QR-Registration/master/Login_Page.png)
 
 ## Web Developer @ IBM Ireland Product Distribution
 Apr 2014 – Aug 2014 | Singapore
