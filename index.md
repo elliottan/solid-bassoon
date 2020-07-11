@@ -1,7 +1,12 @@
 ## Welcome!
 Hi! I'm Elliot Tan, a passionate and fun-loving guy, and I will be using this space mainly to share some applications that I have previously worked on. However, you may find some other non-tech related stuff along the way. Hope you enjoy the page :)
 
-## iOS Developer @ Lomotif
+## Full Stack Developer @ [Lumitics](https://lumitics.com/)
+Apr 2020 - Present | Singapore
+
+Currently, I am interning at Lumitics, a startup that provides food waste tracking solutions to restaurants, canteens, and airlines. Stay tuned for more updates! :)
+
+## iOS Developer @ [Lomotif](https://lomotif.com/)
 May 2019 – Aug 2019 | Singapore
 
 I interned at Lomotif, a social media mobile application developed by a small Singapore startup that got really popular in the West. Here, I picked up the Swift programming language, and how to develop mobile applications in Xcode.
@@ -18,7 +23,7 @@ The clip picker gallery improvements also included a bar where clips selected ca
 <img src="Original_Select.PNG" alt="Original_Select" width="200" height="360" /><img src="New_Select.PNG" alt="New_Select" width="200" height="360" />  
 _1) Original clip picker, 2) New clip picker, featuring a preview bar with clips that can be dragged and dropped_
 
-## QR Code Registration System @ College of Alice and Peter Tan
+## QR Code Registration System @ [College of Alice and Peter Tan](https://capt.nus.edu.sg/)
 During my student life in the National University of Singapore, I stayed at the College of Alice and Peter Tan. There were many opportunities to learn and grow, and one particular program I was part of is the College of Alice and Peter Tan Student Symposium (CAPTISS).
 
 As part of the logistics-tech team, I build a webpage that uses scanned QR codes to record student attendance for events in the student hostel, not only for the aforementioned CAPTISS, but also for formal dinners, and Master's Tea sessions. It was developed to replace a manual paper registration system, so that registration queues move much faster.
@@ -39,7 +44,7 @@ _Some information has been blurred out for the sake of privacy_
 Also, I proposed and actualized a graphical and interactive presentation of data tables, as I found it to be a more intuitive and powerful visualization tool for the user:  
 <img src="RiskLevel_SummaryPage.png" alt="RiskLevel_SummaryPage" />
 
-## The Devils Sea @ Ngee Ann Polytechnic
+## The Devils Sea @ [Ngee Ann Polytechnic](www.np.edu.sg)
 I've always liked game programming, as I find games really interesting and cool. When I was studying a Diploma in Information Technology at Ngee Ann Polytechnic, I had the opportunity to create a game as part of a project. I worked on this with my friend Jeremy, using Game Maker Studio, and I am extremely proud of the end result. Check it out [here](https://github.com/elliottan/The-Devils-Sea-Game)!
 
 ![TheDevilsSea](https://raw.githubusercontent.com/elliottan/The-Devils-Sea-Game/master/end.PNG)
