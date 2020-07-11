@@ -18,12 +18,14 @@ The clip picker gallery improvements also included a bar where clips selected ca
 <img src="Original_Select.PNG" alt="Original_Select" width="200" height="360" /><img src="New_Select.PNG" alt="New_Select" width="200" height="360" />  
 _1) Original clip picker, 2) New clip picker, featuring a preview bar with clips that can be dragged and dropped_
 
-## QR Code Registraion System @ College of Alice and Peter Tan, NUS
-During my student life in NUS, I stayed at the College of Alice and Peter Tan. There were many opportunities to learn and grow, and one particular program I was part of is the College of Alice and Peter Tan Student Symposium (CAPTISS).
+## QR Code Registration System @ College of Alice and Peter Tan
+During my student life in the National University of Singapore, I stayed at the College of Alice and Peter Tan. There were many opportunities to learn and grow, and one particular program I was part of is the College of Alice and Peter Tan Student Symposium (CAPTISS).
 
 As part of the logistics-tech team, I build a webpage that uses scanned QR codes to record student attendance for events in the student hostel, not only for the aforementioned CAPTISS, but also for formal dinners, and Master's Tea sessions. It was developed to replace a manual paper registration system, so that registration queues move much faster.
 
 I implemented the webpage with Java Server Pages and Apache Tomcat, while another student I was working with, Nicholas, implemented the UI design. You may find screenshots and the repository [here](https://github.com/elliottan/CAPTISS-QR-Registration).
+
+![CAPTISS QR Code](https://github.com/elliottan/CAPTISS-QR-Registration/blob/master/Login_Page.png)
 
 ## Web Developer @ IBM Ireland Product Distribution
 Apr 2014 – Aug 2014 | Singapore
@@ -36,3 +38,8 @@ _Some information has been blurred out for the sake of privacy_
 
 Also, I proposed and actualized a graphical and interactive presentation of data tables, as I found it to be a more intuitive and powerful visualization tool for the user:  
 <img src="RiskLevel_SummaryPage.png" alt="RiskLevel_SummaryPage" />
+
+## The Devils Sea @ Ngee Ann Polytechnic
+I've always liked game programming, as I find games really interesting and cool. When I was studying a Diploma in Information Technology at Ngee Ann Polytechnic, I had the opportunity to create a game as part of a project. I worked on this with my friend Jeremy, using Game Maker Studio, and I am extremely proud of the end result. Check it out [here](https://github.com/elliottan/The-Devils-Sea-Game)!
+
+<img src="https://github.com/elliottan/The-Devils-Sea-Game/blob/master/end.PNG" alt="TheDevilsSea" />
