@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+## Web Developer @ IBM Ireland Product Distribution
+Apr 2014 – Aug 2014 | Singapore
 
-You can use the [editor on GitHub](https://github.com/elliottan/solid-bassoon/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This was my first internship, and my first taste of what working a real software development job is like! During my stint at IBM, I picked up Java Servlets and Java Server Pages to  enhance an existing manufacturing tracker dashboard.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The main feature I implemented was a risk analysis tool, so that users are warned about potential lack of parts one week in advance and can act to resolve it. The colourful table cells in the screenshot below was what I improved upon. Each colour represents a different phase of the manufacturing process, and the cells represent the prediction of which phase of manufacturing the product will be in on each day. This had to account for non-working days, shortage of parts, as well as other criteria:
+
+Also, I proposed and actualized a graphical and interactive presentation of data tables, as I found it to be a more intuitive and powerful visualization tool for the user:
+<img src="RiskLevel_SummaryPage.png" alt="RiskLevel_SummaryPage" class="inline"/>
 
 ### Markdown
 
