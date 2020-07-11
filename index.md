@@ -4,15 +4,15 @@ May 2019 – Aug 2019 | Singapore
 I interned at Lomotif, a social media mobile application developed by a small Singapore startup that got really popular in the West. Here, I picked up the Swift programming language, and how to develop mobile applications in Xcode.
 
 My main tasks were conceptualizing and prototyping new features. One of them was the in-app notification system and video upload manager features, which actually made it into the live application. I had to work hard to test and integrate them, improving the Lomotif user experience for millions of users worldwide:  
-<img src="Upload_Progress.PNG" alt="Upload_Progress" width="600" height="620" /><img src="In_App_Notif.PNG" alt="In_App_Notif" width="300" height="620" />  
+<img src="Upload_Progress.PNG" alt="Upload_Progress" width="400" height="420" /><img src="In_App_Notif.PNG" alt="In_App_Notif" width="200" height="420" />  
 _1) Upload progress icon, 2) Upload progress indicators, 3) In-app notifications_
 
 I also prototyped a revamp to the clip picker gallery, to give it a more modern look and feel:  
-<img src="Original_Gallery.PNG" alt="Original_Gallery" width="300" height="520" /><img src="New_Gallery.PNG" alt="New_Gallery" width="600" height="520" />  
+<img src="Original_Gallery.PNG" alt="Original_Gallery" width="200" height="360" /><img src="New_Gallery.PNG" alt="New_Gallery" width="400" height="360" />  
 _1) Original gallery, 2) New gallery, 3) New gallery scrolled down_
 
 The clip picker gallery improvements also included a bar where clips selected can be seen at a glance, as well as rearranged:  
-<img src="Original_Select.PNG" alt="Original_Select" width="300" height="520" /><img src="New_Select.PNG" alt="New_Select" width="300" height="520" />  
+<img src="Original_Select.PNG" alt="Original_Select" width="200" height="360" /><img src="New_Select.PNG" alt="New_Select" width="200" height="360" />  
 _1) Original clip picker, 2) New clip picker, featuring a preview bar with clips that can be dragged and dropped_
 
 ## Web Developer @ IBM Ireland Product Distribution
