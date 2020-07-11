@@ -18,6 +18,13 @@ The clip picker gallery improvements also included a bar where clips selected ca
 <img src="Original_Select.PNG" alt="Original_Select" width="200" height="360" /><img src="New_Select.PNG" alt="New_Select" width="200" height="360" />  
 _1) Original clip picker, 2) New clip picker, featuring a preview bar with clips that can be dragged and dropped_
 
+## QR Code Registraion System @ College of Alice and Peter Tan, NUS
+During my student life in NUS, I stayed at the College of Alice and Peter Tan. There were many opportunities to learn and grow, and one particular program I was part of is the College of Alice and Peter Tan Student Symposium (CAPTISS).
+
+As part of the logistics-tech team, I build a webpage that uses scanned QR codes to record student attendance for events in the student hostel, not only for the aforementioned CAPTISS, but also for formal dinners, and Master's Tea sessions. It was developed to replace a manual paper registration system, so that registration queues move much faster.
+
+I implemented the webpage with Java Server Pages and Apache Tomcat, while another student I was working with, Nicholas, implemented the UI design. You may find screenshots and the repository [here](https://github.com/elliottan/CAPTISS-QR-Registration).
+
 ## Web Developer @ IBM Ireland Product Distribution
 Apr 2014 – Aug 2014 | Singapore
 
