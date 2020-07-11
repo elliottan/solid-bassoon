@@ -1,4 +1,4 @@
-## Welcome to Elliot's Stuff!
+## Welcome!
 Hi! I'm Elliot Tan, a passionate and fun-loving guy, and I will be using this space mainly to share some applications that I have previously worked on. However, you may find some other non-tech related stuff along the way. Hope you enjoy the page :)
 
 ## iOS Developer @ Lomotif
