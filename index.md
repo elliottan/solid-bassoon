@@ -25,7 +25,7 @@ As part of the logistics-tech team, I build a webpage that uses scanned QR codes
 
 I implemented the webpage with Java Server Pages and Apache Tomcat, while another student I was working with, Nicholas, implemented the UI design. You may find screenshots and the repository [here](https://github.com/elliottan/CAPTISS-QR-Registration).
 
-![CAPTISS QR Code](https://github.com/elliottan/CAPTISS-QR-Registration/blob/master/Login_Page.png)
+![CAPTISS QR Code](https:/raw.githubusercontent.com/elliottan/CAPTISS-QR-Registration/blob/master/Login_Page.png)
 
 ## Web Developer @ IBM Ireland Product Distribution
 Apr 2014 – Aug 2014 | Singapore
@@ -42,4 +42,4 @@ Also, I proposed and actualized a graphical and interactive presentation of data
 ## The Devils Sea @ Ngee Ann Polytechnic
 I've always liked game programming, as I find games really interesting and cool. When I was studying a Diploma in Information Technology at Ngee Ann Polytechnic, I had the opportunity to create a game as part of a project. I worked on this with my friend Jeremy, using Game Maker Studio, and I am extremely proud of the end result. Check it out [here](https://github.com/elliottan/The-Devils-Sea-Game)!
 
-<img src="https://github.com/elliottan/The-Devils-Sea-Game/blob/master/end.PNG" alt="TheDevilsSea" />
+![TheDevilsSea](https://raw.githubusercontent.com/elliottan/The-Devils-Sea-Game/master/end.PNG)
