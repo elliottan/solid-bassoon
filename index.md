@@ -4,7 +4,10 @@ Hi! I'm Elliot Tan, a passionate and fun-loving guy, and I will be using this sp
 ## Full Stack Developer @ [Lumitics](https://lumitics.com/)
 Apr 2020 - Present | Singapore
 
-Currently, I am interning at Lumitics, a startup that provides food waste tracking solutions to restaurants, canteens, and airlines. Stay tuned for more updates! :)
+Currently, I am interning at Lumitics, a startup that provides food waste tracking solutions to restaurants, canteens, and airlines. With a team of 7 other interns, I have contributed to help build a mobile data visualisation platform for clients to gain insights and get data of their food waste.
+
+This was done with React and NodeJS, and I have touched many parts of the tech stack, such as frontend, backend, database, testing and dev-ops. Really grateful for this experience, and it was quite a blessing to have worked with such a solid and nice team!  
+<img src="Lumitics_Data_Vis_Home.PNG" alt="Lumitics_Data_Vis_Home" width="200" height="360" /> <img src="Lumitics_Data_Vis_Charts.PNG" alt="Lumitics_Data_Vis_Charts" width="200" height="360" />  
 
 ## iOS Developer @ [Lomotif](https://lomotif.com/)
 May 2019 – Aug 2019 | Singapore
