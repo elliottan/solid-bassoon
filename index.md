@@ -1,12 +1,14 @@
 ## Welcome!
 Hi! I'm Elliot Tan, a passionate and fun-loving guy, and I will be using this space mainly to share some applications that I have previously worked on. However, you may find some other non-tech related stuff along the way. Hope you enjoy the page :)
 
-## Modmates [(Figma Hi-fi Prototype)](https://www.figma.com/proto/rHaPiJvcyKacnH4EqkbpCT/Modmates-Final?node-id=6%3A0&scaling=scale-down)
+## Modmates [(Figma Hi-Fi Prototype)](https://www.figma.com/proto/rHaPiJvcyKacnH4EqkbpCT/Modmates-Final?node-id=6%3A0&scaling=scale-down)
 Aug 2020 | Singapore
 
 We all know the feeling of taking a module and not knowing anyone in class. Modmates is an application to help students find friends in modules they are taking, to meet new people, form study groups, or just complain about their homework together.
 
-Through a iterative process of design and validation, we grew a prototype for an application from wifeframes to extremely hi-fi, taking into account feedback from  a multitude user interviews. The final Figma prototype can be viewed at the link above, but here are some screens from a prototype I am really proud of:
+Through a iterative process of design and validation, we grew a prototype for an application from wifeframes to extremely hi-fi, taking into account feedback from  a multitude user interviews. The final Figma prototype can be viewed at the link above, but here are some screens from a prototype I am really proud of.
+
+<img src="Modmates_Splash.png" alt="Modmates_Splash" width="200" height="360" /><img src="Modmates_People.png" alt="Modmates_People" width="200" height="360" /><img src="Modmates_Groups.png" alt="Modmates_Groups" width="200" height="360" /><img src="Modmates_Profile.png" alt="Modmates_Profile" width="200" height="360" /> 
 
 ## Full Stack Developer @ [Lumitics](https://lumitics.com/)
 Apr 2020 - Present | Singapore
