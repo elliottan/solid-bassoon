@@ -4,7 +4,7 @@ Hi! I'm Elliot Tan, a passionate and fun-loving guy, and I will be using this sp
 ## Homebakes [(Mobile-Optimised PWA)](https://bake-shop-sg.herokuapp.com/)
 Sep 2020 | Singapore
 
-Have a friend who started baking during the Covid-19 lockdown period and can't seem to stop posting about it on Instagram? Or perhaps you have five of those friends. Direct them to Homebakes today to list and sell their surplus bread and cakes!
+Have a friend who started baking during the Covid-19 lockdown period and can't seem to stop posting about it on Instagram? Or perhaps you have five of those friends. Direct them to [Homebakes](https://bake-shop-sg.herokuapp.com/) today to list and sell their surplus bread and cakes!
 
 In a team of four, we developed and deployed the Homebakes PWA in a span of two weeks. I worked mostly on the frontend, using ReactJS and Material-UI. Unexpectedly, I have taken a liking towards frontend development, and this is something I would never have thought I'd say. It was really quite fun learning to build a real PWA, and seeing it download to my mobile home screen and even on my computer was quite satisfying.
 
@@ -15,7 +15,7 @@ Aug 2020 | Singapore
 
 We all know the feeling of taking a module and not knowing anyone in class. Modmates is an application to help students find friends in modules they are taking, to meet new people, form study groups, or just complain about their homework together.
 
-Through a iterative process of design and validation, I was part of a team of four that grew a prototype for an application from wifeframes to extremely hi-fi, taking into account feedback from  a multitude user interviews. The final Figma prototype can be viewed at the link above, but here are some screens from a prototype I am really proud of.
+Through a iterative process of design and validation, I was part of a team of four that grew a prototype for an application from wifeframes to extremely hi-fi, taking into account feedback from  a multitude user interviews. The final Figma prototype can be viewed [here](https://www.figma.com/proto/rHaPiJvcyKacnH4EqkbpCT/Modmates-Final?node-id=6%3A0&scaling=scale-down), and here are some screens from a prototype I am really proud of.
 
 <img src="Modmates_Splash.png" alt="Modmates_Splash" width="200" height="400" /> <img src="Modmates_People.png" alt="Modmates_People" width="200" height="400" /> <img src="Modmates_Groups.png" alt="Modmates_Groups" width="200" height="400" /> <img src="Modmates_Profile.png" alt="Modmates_Profile" width="200" height="400" /> 
 
