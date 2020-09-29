@@ -8,7 +8,7 @@ Have a friend who started baking during the Covid-19 lockdown period and can't s
 
 In a team of four, we developed and deployed the Homebakes PWA in a span of two weeks. I worked mostly on the frontend, using ReactJS and Material-UI. Unexpectedly, I have taken a liking towards frontend development, and this is something I would never have thought I'd say. It was really quite fun learning to build a real PWA, and seeing it download to my mobile home screen and even on my computer was quite satisfying.
 
-<img src="Homebakes_Splash.png" alt="Homebakes_Splash" width="180" height="360" /><img src="Homebakes_Home.png" alt="Homebakes_Home" width="180" height="360" /><img src="Homebakes_Details.png" alt="Homebakes_Details" width="180" height="360" /><img src="Homebakes_Transactions.png" alt="Homebakes_Transactions" width="180" height="360" /> 
+<img src="Homebakes_Splash.png" alt="Homebakes_Splash" width="220" height="400" /> <img src="Homebakes_Home.png" alt="Homebakes_Home" width="200" height="400" /> <img src="Homebakes_Details.png" alt="Homebakes_Details" width="200" height="400" /> <img src="Homebakes_Transactions.png" alt="Homebakes_Transactions" width="200" height="400" /> 
 
 ## Modmates [(Figma Hi-Fi Prototype)](https://www.figma.com/proto/rHaPiJvcyKacnH4EqkbpCT/Modmates-Final?node-id=6%3A0&scaling=scale-down)
 Aug 2020 | Singapore
@@ -17,7 +17,7 @@ We all know the feeling of taking a module and not knowing anyone in class. Modm
 
 Through a iterative process of design and validation, I was part of a team of four that grew a prototype for an application from wifeframes to extremely hi-fi, taking into account feedback from  a multitude user interviews. The final Figma prototype can be viewed at the link above, but here are some screens from a prototype I am really proud of.
 
-<img src="Modmates_Splash.png" alt="Modmates_Splash" width="180" height="360" /><img src="Modmates_People.png" alt="Modmates_People" width="180" height="360" /><img src="Modmates_Groups.png" alt="Modmates_Groups" width="180" height="360" /><img src="Modmates_Profile.png" alt="Modmates_Profile" width="180" height="360" /> 
+<img src="Modmates_Splash.png" alt="Modmates_Splash" width="200" height="400" /> <img src="Modmates_People.png" alt="Modmates_People" width="200" height="400" /> <img src="Modmates_Groups.png" alt="Modmates_Groups" width="200" height="400" /> <img src="Modmates_Profile.png" alt="Modmates_Profile" width="200" height="400" /> 
 
 ## Full Stack Developer @ [Lumitics](https://lumitics.com/)
 Apr 2020 - Present | Singapore
