@@ -65,7 +65,7 @@ _Some information has been blurred out for the sake of privacy_
 Also, I proposed and actualized a graphical and interactive presentation of data tables, as I found it to be a more intuitive and powerful visualization tool for the user:  
 <img src="RiskLevel_SummaryPage.png" alt="RiskLevel_SummaryPage" />
 
-## <a name="devilsea">The Devils Sea @ [Ngee Ann Polytechnic](www.np.edu.sg)</a>
+## The Devils Sea @ [Ngee Ann Polytechnic](https://www.np.edu.sg)<a name="devilsea"></a>
 I've always liked game programming, as I find games really interesting and cool. When I was studying a Diploma in Information Technology at Ngee Ann Polytechnic, I had the opportunity to create a game as part of a project. I worked on this with my friend Jeremy, using Game Maker Studio, and I am extremely proud of the end result. Check it out [here](https://github.com/elliottan/The-Devils-Sea-Game)!
 
 ![TheDevilsSea](https://raw.githubusercontent.com/elliottan/The-Devils-Sea-Game/master/end.PNG)
