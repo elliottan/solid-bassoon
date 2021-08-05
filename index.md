@@ -20,7 +20,7 @@ Through a iterative process of design and validation, I was part of a team of fo
 <img src="Modmates_Splash.png" alt="Modmates_Splash" width="200" height="400" /> <img src="Modmates_People.png" alt="Modmates_People" width="200" height="400" /> <img src="Modmates_Groups.png" alt="Modmates_Groups" width="200" height="400" /> <img src="Modmates_Profile.png" alt="Modmates_Profile" width="200" height="400" /> 
 
 ## Full Stack Developer @ [Lumitics](https://lumitics.com/)<a name="lumitics"></a>
-Apr 2020 - Present | Singapore
+Apr 2020 - Dec 2020 | Singapore
 
 Currently, I am interning at Lumitics, a startup that provides food waste tracking solutions to restaurants, canteens, and airlines. With a team of 7 other interns, I have contributed to help build a mobile data visualisation platform for clients to gain insights and get data of their food waste.
 
